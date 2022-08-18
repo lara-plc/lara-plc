@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lara-plc
 - 👀 I’m interested in putting my skills to test in a work enviroment
-- 🌱 I’m currently learning js frameworks
+- 🌱 I’m currently learning PostgreSQL and Docker
 - 💞️ I’m looking to collaborate on anything really!
 - 📫 How to reach me poncianolaralc@gmail.com
 
